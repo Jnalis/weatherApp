@@ -7,7 +7,7 @@ function Body() {
     <div>
       <Header />
       <div>
-        <Main_Card/>
+        <Main_Card />
       </div>
     </div>
   );
